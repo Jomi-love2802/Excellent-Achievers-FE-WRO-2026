@@ -7,8 +7,8 @@ Official repository for Excellent Achievers participation in the WRO 2026 Future
 #     TEAM NAME
     EXCELLENT ACHIEVERS
 #     TEAM MEMBERS
-    ADENUGA OLUWAJOMILOJU
-    ABOLAJI-ADESHINA SAADAT  
+    ADENUGA OLUWAJOMILOJU IFEOLUWA
+    ABOLAJI-ADESHINA SAADAT EJIDE
 #      SCHOOL
 EVA ADELAJA GIRLS' SENIOR SECONDARY SCHOOL, BARIGA. 
 #      COUNTRY 
@@ -33,7 +33,7 @@ This Engineering Journal provides a complete record of our engineering journey. 
 More importantly, this journal demonstrates our commitment to applying engineering principles, working effectively as a team, developing innovative solutions, and continuously improving our design. Through this project, we aim not only to build a competitive autonomous vehicle for the World Robot Olympiad Future Engineers 2026, but also to gain practical engineering skills and experience that can help us solve real-world problems in the future.
 
 # ROBOT HARDWARE COMPONENT 
-Under V-photos
+Under V-photos code
 
 # EVA TESLA
 EVA TESLA is our autonomous self-driving robot developed for the World Robot Olympiad (WRO) Future Engineers 2026 competition. The robot is designed to demonstrate how an autonomous vehicle can operate without human intervention by combining intelligent programming, precise engineering, and sensor-based navigation.
@@ -95,7 +95,7 @@ The anti-clockwise program was improved through repeated testing, debugging, and
 Through this development process, EVA TESLA became more consistent and reliable when navigating the track in the anti-clockwise direction. The program is designed to provide smooth movement, accurate steering, effective obstacle avoidance, and dependable autonomous performance throughout the WRO Future Engineers challenge.
 
 # STUDENTS' EXPERIENCE AND PROFILE
-- Under t- photos
+- Under t-photos code
 - ADENUGA OLUWAJOMILOJU
 
 Participating in the WRO Future Engineers 2026 competition has been an inspiring and rewarding experience for me. As a team member, I contributed to the design, programming, and testing of EVA TESLA while also helping to ensure effective collaboration among team members.
