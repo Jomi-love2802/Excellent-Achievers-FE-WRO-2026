@@ -33,7 +33,7 @@ This Engineering Journal provides a complete record of our engineering journey. 
 More importantly, this journal demonstrates our commitment to applying engineering principles, working effectively as a team, developing innovative solutions, and continuously improving our design. Through this project, we aim not only to build a competitive autonomous vehicle for the World Robot Olympiad Future Engineers 2026, but also to gain practical engineering skills and experience that can help us solve real-world problems in the future.
 
 # ROBOT HARDWARE COMPONENT 
-V-photos
+Under V-photos
 
 # EVA TESLA
 EVA TESLA is our autonomous self-driving robot developed for the World Robot Olympiad (WRO) Future Engineers 2026 competition. The robot is designed to demonstrate how an autonomous vehicle can operate without human intervention by combining intelligent programming, precise engineering, and sensor-based navigation.
@@ -49,8 +49,8 @@ EVA TESLA is more than just a competition robot. It is a practical demonstration
 Through EVA TESLA, we aim to demonstrate how intelligent autonomous technology can contribute to safer, more efficient, and smarter transportation systems. Most importantly, the project reflects our creativity, technical knowledge, teamwork, and commitment to continuous improvement, which are essential qualities of the WRO Future Engineers competition.
 
 # EVA TESLA PROGRAMMING 
-Photos under the src code.
-The programming of EVA TESLA was developed using a modular approach to ensure efficient, reliable, and fully autonomous operation. The software is divided into different modules, with each module responsible for a specific function. These functions include sensor data collection, lane detection, obstacle detection, steering control, speed regulation, and decision-making.
+- Photos under the src code.
+- The programming of EVA TESLA was developed using a modular approach to ensure efficient, reliable, and fully autonomous operation. The software is divided into different modules, with each module responsible for a specific function. These functions include sensor data collection, lane detection, obstacle detection, steering control, speed regulation, and decision-making.
 
 This modular structure allows each function to be developed and tested separately while still working together as one complete system. It also makes the program easier to understand, maintain, troubleshoot, and improve.
 
@@ -94,4 +94,43 @@ The anti-clockwise program was improved through repeated testing, debugging, and
 
 Through this development process, EVA TESLA became more consistent and reliable when navigating the track in the anti-clockwise direction. The program is designed to provide smooth movement, accurate steering, effective obstacle avoidance, and dependable autonomous performance throughout the WRO Future Engineers challenge.
 
-# 
+# STUDENTS' EXPERIENCE AND PROFILE
+- Under t- photos
+- ADENUGA OLUWAJOMILOJU
+
+Participating in the WRO Future Engineers 2026 competition has been an inspiring and rewarding experience for me. As a team member, I contributed to the design, programming, and testing of EVA TESLA while also helping to ensure effective collaboration among team members.
+
+Through this project, I gained valuable practical knowledge in robotics, autonomous navigation, LEGO EV3 programming, and engineering problem-solving. I took part in continuous testing and improvement, which helped me develop important skills such as critical thinking, leadership, communication, and project management.
+
+Working on EVA TESLA also taught me the importance of teamwork, patience, perseverance, and innovation when dealing with engineering challenges. Every stage of the project gave me an opportunity to learn from mistakes, improve my ideas, and contribute to the overall performance of the robot.
+
+This experience has strengthened my interest in robotics and future engineering technologies. It has also given me greater confidence in applying what I have learned to practical problems and working with others to achieve a common goal.
+- ABOLAJI- ADESHINA SAADAT 
+
+Being a member of the WRO Future Engineers team has been an exciting opportunity for me to learn, develop new skills, and gain practical experience. I contributed to the construction, testing, and improvement of EVA TESLA, where I gained experience in mechanical design, sensor integration, and robot programming.
+
+Throughout the project, I learned how to identify problems, test different solutions, and make improvements based on the results of our tests. This taught me that successful engineering requires patience, careful observation, teamwork, and a willingness to keep improving.
+
+The experience also helped me develop my creativity, technical skills, confidence, problem-solving abilities, and teamwork. Working with other team members showed me how different ideas and skills can come together to create a better solution.
+
+Participating in the competition has increased my interest in robotics, engineering, and technology. It has also taught me the value of dedication, continuous learning, and working together to achieve a successful result.
+
+# SUMMARY 
+The development of EVA TESLA for the WRO Future Engineers 2026 competition has been a rewarding engineering experience that brought together creativity, technical knowledge, problem-solving, and teamwork.
+
+Throughout the project, we designed, built, programmed, tested, and continuously improved an autonomous self-driving robot capable of navigating the competition track with accuracy and reliability. By combining mechanical engineering, electronics, sensor technology, and LEGO EV3 programming, we were able to turn our ideas into a functional autonomous vehicle.
+
+The project helped us improve our problem-solving, critical thinking, teamwork, communication, and engineering skills. Through repeated testing and refinement, we learned the importance of patience, perseverance, innovation, and making decisions based on actual test results.
+
+More than just a competition project, EVA TESLA represents our growth as young engineers. It reflects the knowledge and experience we gained throughout the development process, as well as our commitment to continuous learning, teamwork, and innovation.
+
+# CONCLUSION 
+The development of EVA TESLA has been a valuable learning experience that allowed us to apply engineering principles, programming, and teamwork to the development of an autonomous self-driving robot.
+
+Through continuous testing and improvement, we were able to improve the robot’s performance, reliability, accuracy, and ability to respond to different track conditions. Each challenge we encountered gave us an opportunity to learn, make adjustments, and develop better solutions.
+
+The project has strengthened our technical skills, creativity, critical thinking, and problem-solving abilities. It has also shown us the importance of teamwork, patience, and continuous improvement when working on a complex engineering project.
+
+Overall, EVA TESLA has increased our interest in robotics, engineering, and autonomous technology. The experience has given us practical knowledge and confidence that we can carry into future projects, while encouraging us to continue learning, creating, and exploring new engineering ideas through the WRO Future Engineers programme.
+
+
